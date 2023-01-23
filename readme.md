@@ -9,4 +9,6 @@ features that I really enjoyed to develop:
 - delete a todo
 - Check if a user or todo exists before every action 
 
-I learned how to use some quick tests and work above someone's code. A very simple but great challenge. 
+I used a couple middlewares to manage the requirements and responses among the features.
+
+Then, I learned how to work with tests. A simple, but an elegant challenge. 
